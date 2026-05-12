@@ -1,5 +1,3 @@
----
-
 ## Daftar Isi
 
 1. [Pengenalan Android & Kotlin](#1-pengenalan-android--kotlin)
@@ -17,7 +15,6 @@
 13. [SharedPreferences & Penyimpanan Data](#13-sharedpreferences--penyimpanan-data)
 14. [Proyek Lengkap: Aplikasi To-Do List](#14-proyek-lengkap-aplikasi-to-do-list)
 
----
 
 ## 1. Pengenalan Android & Kotlin
 
