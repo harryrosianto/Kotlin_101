@@ -1,4 +1,4 @@
-### dependecies used
+## Dependecies used
 
 1. Recycler View
 
